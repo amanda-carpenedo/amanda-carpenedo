@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da amanda-carpenedo! 🙂
+## Bem-vindo(a) ao perfil da Amanda Carpenedo! 🙂
 
  <div>
    <a href="https://github.com/amanda-carpenedo">
