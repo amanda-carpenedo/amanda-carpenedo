@@ -3,6 +3,8 @@
  <div>
    <a href="https://github.com/amanda-carpenedo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-carpenedo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+
+    
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-carpenedo&layout=compact&langs_count=6&theme=monokai"/>
 </div>
     
