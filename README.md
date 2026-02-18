@@ -1,24 +1,31 @@
-## Bem-vindo(a) ao perfil da Amanda Carpenedo! 🙂
+# Ciao, sono Amanda! 👋
 
- <div>
-   <a href="https://github.com/amanda-carpenedo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-carpenedo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+### 🚀 Chi sono
+Frontend Web Developer con esperienza pratica nella realizzazione di siti web utilizzando **HTML, CSS, JavaScript e PHP** per personalizzazioni, ottimizzazioni e miglioramento dell’esperienza utente. Affianco all’attività di builder anche lo sviluppo tramite **WordPress**, seguendo i progetti dal brief iniziale fino alla pubblicazione online. Ho una forte sensibilità grafica e un approccio orientato alla **UX/UI Design**, con attenzione alla coerenza visiva, all’usabilità e al rispetto delle tempistiche.
 
-    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-carpenedo&layout=compact&langs_count=6&theme=monokai"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
- 
-<br>
- 
-### Contatos:
- 
-<div> 
-  <a href = "mailto:amanda_carpenedo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amanda-carpenedo-015132298/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### 🛠️ Tecnologie e Strumenti
+
+#### Sviluppo Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,git" />
+</p>
+
+#### Design UX/UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
+
+---
+
+### 📬 Contatti
+<p align="left">
+  <a href="https://linkedin.com/in/amanda-carpenedo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amanda_carpenedo@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
