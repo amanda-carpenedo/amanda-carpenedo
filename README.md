@@ -24,6 +24,9 @@ Frontend Web Developer con esperienza pratica nella realizzazione di siti web ut
   <a href="https://linkedin.com/in/amanda-carpenedo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://amandacarpenedodev.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-EAC54F?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="mailto:amanda_carpenedo@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
