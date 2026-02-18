@@ -9,7 +9,7 @@ Frontend Web Developer con esperienza pratica nella realizzazione di siti web ut
 
 #### Sviluppo Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,bootstrap,git" />
 </p>
 
 #### Design UX/UI
